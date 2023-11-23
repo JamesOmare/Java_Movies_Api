@@ -15,6 +15,6 @@ public class MoviesApplication {
 
 	@GetMapping("/")
 	public String apiRoot(){
-		return "Sema!";
+		return "Sema!!";
 	}
 }
