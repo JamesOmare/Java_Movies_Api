@@ -25,7 +25,7 @@ public class Movie {
     private List<String> genres;
     private List<String> backdrops;
     @DocumentReference
-    private List<Reviews> reviewIds;
+    private List<Review> reviewIds;
 
 
 }
